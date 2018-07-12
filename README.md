@@ -1,6 +1,8 @@
-兴趣使然的弄了一个[「盐与避难所」的中文 Wiki](https://github.com/Mogeko/Salt-and-Sanctuary-Wiki-zh_CN/wiki)
+兴趣使然的弄了一个「盐与避难所」的中文 Wiki
 
 目前还在开发阶段。。。
+
+[「盐与避难所」中文 Wiki](https://github.com/Mogeko/Salt-and-Sanctuary-Wiki-zh_CN/wiki)
 
 ## TODO
 - [x] 职业
